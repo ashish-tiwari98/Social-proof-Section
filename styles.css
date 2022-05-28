@@ -116,12 +116,14 @@ strong>p{
     .block,#block1,#block2{
         width:100%;
         text-align: center;
-        margin-bottom: 10px;
     }
     h1>strong{ 
         width:200px;
         text-align: center;
         display:inline-block; 
+    }
+    div>p{
+        margin:25px auto;
     }
     #rect1,#rect2,#rect3{
         margin-left:0;
@@ -138,6 +140,7 @@ strong>p{
     #card1,#card2,#card3{
         margin-left: 0;
         width:100%;
+        margin-top:15px;
     }
 }
 
